@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-compressor = "*"
+pillow = "*"
+django-autoslug = "*"
+django-taggit = "*"
+django-admin-interface = "*"
+django-adminlte2 = "*"
+django-jazzmin = "*"
+django-adminlte-3 = "*"
+jdatetime = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
